@@ -1,6 +1,6 @@
 # merge_mind_ai
 
-Personal Chat Application.
+Personal AI Application.
 
 ## Getting Started
 
